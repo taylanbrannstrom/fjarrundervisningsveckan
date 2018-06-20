@@ -1,0 +1,10 @@
+{
+  "name": "fjarrundervisningsveckan",
+  "version": "1.0.0",
+  "author": "Taylan Brännström <taylan.brannstrom@learnox.se>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
