@@ -4,6 +4,9 @@
   "author": "Taylan Brännström <taylan.brannstrom@learnox.se>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "dev": "lite-server"
+  },
   "devDependencies": {
     "lite-server": "^2.3.0"
   }
